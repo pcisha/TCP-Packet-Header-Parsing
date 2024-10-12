@@ -2,11 +2,9 @@ README
 
 --ABOUT--
 		DATE: 09/12/2013
-		COURSE: CSCI-P538
-		YEAR: Fall 2013
-		DEVELOPERS: Prachi Shah(pracshah), Oliver Lewis(lewiso)
-		PROJECT: Lab 1: C Programming Primer and Parsing Network Packets
-		SECTION: C Programming Primer 
+		DEVELOPER: Prachi Shah(pracshah)
+		PROJECT: C Programming Primer and Parsing Network Packets
+
 --CONFIGURATION--
 		OPERATING SYSTEM: Ubuntu 12.04 or higher
 		RAM SIZE: 2 GB or higher
